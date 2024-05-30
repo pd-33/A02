@@ -1,6 +1,7 @@
 # A02
 
-## Directions on downloading Git
+## Part 1
+### Directions on downloading Git
 - Visit the website https://git-scm.com/downloads 
 - Click on the operating system you are currently on 
 - Click on “Click here to download”
@@ -15,7 +16,7 @@
 - Click Finish
 
 
-## Directions on downloading Webstorm
+### Directions on downloading Webstorm
 - Go to https://www.jetbrains.com/webstorm/ 
 - Click on the blue button that says Download
 - When it has completed downloading click on the execution file
@@ -27,14 +28,14 @@
 - Select either Dark mode or Light mode
 
 
-## Directions for a free webstorm license
+### Directions for a free webstorm license
 - Go back to https://www.jetbrains.com/webstorm/
 - On the top bar click on Educations and on the right in Free Licenses choose the first link which says “For students and teachers”
 - Scroll down to the first blue buttons that says Apply now 
 - Follow the instructions to get a free license as a student or teacher
 
 
-## Directions on making a GitHub account 
+### Directions on making a GitHub account 
 - Go to https://github.com/
 - Click on Sign up 
 - Create an account (username and password)
@@ -42,9 +43,9 @@
 - Login using your username and password
 
 
+## Part 2
 
-
-## Glossary
+### Glossary
 - **Branch:** is a moveable pointer to a commit that allows you to work on new features or bugs separately from the main development line. Branches can be created, deleted, and merged back into the main line of development.
 - **Clone:** is the process of creating a copy of a Git repository from a remote source to your local machine
 - **Commit:** it is a snapshot of your changes or your history, where each commit has a unique ID with a message describing the changes made
@@ -59,3 +60,6 @@
 - **Repository:** is a stores all the files, commits, branches and tags for a project while also serving as a storage location for software code and its revision history,
 
 
+### Reference List
+- **Webstorm** https://www.youtube.com/watch?v=NOsk5ToidFY&ab_channel=HaryPhamDev
+- **Git** https://www.youtube.com/watch?v=8HhEupU4iGU&ab_channel=DefCode 
